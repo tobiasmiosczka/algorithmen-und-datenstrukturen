@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-abstract class IntegerListUTest1 {
+public abstract class IntegerListUTest1 {
 
     protected abstract IntegerList generateEmptyList();
 
